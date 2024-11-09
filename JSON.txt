@@ -193,7 +193,7 @@ LOOT DROPS HAVE BEEN ADDED TO ALL ALPHAS INCLUDING 5-15 ELEMENT AND 2-4 ITEMS DE
                 }
             },
             {
-                "link1": {
+                "link2": {
                     "text": "SUPPORT",
                     "url": "https://discord.gg/MXtC8Y2j3v"
                 }
