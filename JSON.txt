@@ -181,7 +181,7 @@ LOOT DROPS HAVE BEEN ADDED TO ALL ALPHAS INCLUDING 1-10 ELEMENT AND 1-4 ITEMS DE
 <TextStyle.Red>ALPHA</>
 - SADDLES / WEAPONS / ARMOUR
 - 70% BP CHANCE",
-                    "imageurl": "https://www.baltana.com/files/wallpapers-10/Purple-Abstract-Black-Wallpaper-28416.jpg"
+                    "imageurl": "https://preview.redd.it/intro-wallpaper-v0-p9mwtf5or1xb1.png?width=1280&format=png&auto=webp&s=86500c694dfc619b811fb31e5e1022e67fef2d52"
                 }
              }
         ],
