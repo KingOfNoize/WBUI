@@ -133,7 +133,7 @@ LOOT DROPS HAVE BEEN ADDED TO ALL ALPHAS INCLUDING 5-15 ELEMENT AND 2-4 ITEMS DE
 {
                 "tab4": {
                     "layout": 2,
-                    "buttontext": "<RichColor Color=\"1,1,1,1\">WIP</>",
+                    "buttontext": "<RichColor Color=\"1,1,1,1\">LOOT INFO</>",
                     "title1": "<RichColor Color=\"1.0,0.0,1.0,1\">SUPPLY / CAVE DROPS</>",
                     "title2": "<RichColor Color=\"1.0,0.0,1.0,1\">BOSS / ALPHA DROPS</>",
                       "text1": "<TextStyle.Violet>WIP</>
