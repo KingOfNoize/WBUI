@@ -136,40 +136,9 @@ LOOT DROPS HAVE BEEN ADDED TO ALL ALPHAS INCLUDING 5-15 ELEMENT AND 2-4 ITEMS DE
                     "buttontext": "<RichColor Color=\"1,1,1,1\">WIP</>",
                     "title1": "<RichColor Color=\"1.0,0.0,1.0,1\">SUPPLY / CAVE DROPS</>",
                     "title2": "<RichColor Color=\"1.0,0.0,1.0,1\">BOSS / ALPHA DROPS</>",
-                  "text1": "<TextStyle.White>WHITE</>
-- ARTIFACTS
-- TRIBUTES
-
-<TextStyle.Green>GREEN</>
-- CONSUMABLES
-- RESOURCES
-
-<TextStyle.Blue>BLUE</>
-- PVP KITS
-- CHIBIS
-
-<TextStyle.Violet>PURPLE</>
-- SADDLES
-- 20% BP CHANCE
-
-<TextStyle.Yellow>YELLOW</>
-- WEAPONS / ARMOUR
-- 20% BP CHANCE
-
-<TextStyle.Red>RED</>
-- SADDLES / WEAPONS / ARMOUR
-- 40% BP CHANCE",
-                    "text2": "<TextStyle.Blue>BLUE</>
-- PVP KITS
-
-<TextStyle.Yellow>YELLOW</>
-- WEAPONS / ARMOUR
-- 20% BP CHANCE
-
-<TextStyle.Red>RED</>
-- SADDLES / WEAPONS / ARMOUR
-- 40% BP CHANCE",
-                    "imageurl": "https://getwallpapers.com/wallpaper/full/4/f/1/487114.jpg"
+                      "text1": "<TextStyle.Violet>WHITE</>",
+                    "text2": "<TextStyle.Violet>WIP</>",
+                    "imageurl": "https://i.imgur.com/dalcXQZ.png"
                 }
              }
         ],
