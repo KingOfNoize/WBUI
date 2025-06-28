@@ -17,9 +17,9 @@
                 "tab1": {
                     "layout": 3,
                     "buttontext": "<RichColor Color=\"1,1,1,1\">INFORMATION</>",
-                    "title1": "<RichColor Color=\"1.1,1.1,1.1,1\">INFORMATION</>",
-                    "title2": "<RichColor Color=\"1.1,1.1,1.1,1\">WELCOME</>",
-                    "title3": "<RichColor Color=\"1.1,1.1,1.1,1\">MODS</>",
+                    "title1": "<RichColor Color=\"1.0,0.0,1.0,1\">INFORMATION</>",
+                    "title2": "<RichColor Color=\"1.0,0.0,1.0,1\">WELCOME</>",
+                    "title3": "<RichColor Color=\"1.0,0.0,1.0,1\">MODS</>",
                   "text1": "- HARVESTING 10x
 - EXPERIENCE 10x
 - TAMING 10x
@@ -66,7 +66,7 @@
             {
                 "tab2": {
                     "layout": 1,
-                    "buttontext": "RULES",
+                    "buttontext": "<RichColor Color=\"1,1,1,1\">RULES</>",
                     "title1": "<TextStyle.Violet>SERVER RULES</>",
                     "text1": "BY PLAYING ON THIS SERVER YOU AGREE TO FOLLOW THE CODE OF CONDUCT SET BY STUDIO WILDCARD AND THE UNIQUE SET OF RULES SET BY THE PRODIGY GAMING SERVER. ALL RULES ARE ULTIMATELY DEPENDENT UPON THE JUDGMENT OF THE ADMIN TEAM SO IF YOU HAVE ANY QUESTIONS THEN PLEASE DO NOT HESITATE TO CONTACT AN ADMIN FOR CLARIFICATION
 
@@ -97,7 +97,7 @@
             {
                 "tab3": {
                     "layout": 1,
-                    "buttontext": "SERVER GUIDE",
+                    "buttontext": "<RichColor Color=\"1,1,1,1\">SERVER GUIDE</>",
                     "title1": "<TextStyle.Violet>PRODIGY SERVER GUIDE</>",
                     "text1": "<TextStyle.Violet>STARTING OUT</>
 IF YOU ARE NEW TO THE SERVER YOU YOU CAN ACCESS THE IN GAME SHOP AND SEARCH FOR 'STARTER KIT' THIS WILL GIVE YOU A PTERANODON AND BASIC TOOLS AND ARMOUR TO HELP GET STARTED. PLAYERS ARE GRANTED 2 FREE STARTER KITS PER SEASON
