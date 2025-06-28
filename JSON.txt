@@ -17,9 +17,9 @@
                 "tab1": {
                     "layout": 3,
                     "buttontext": "<RichColor Color=\"1,1,1,1\">INFORMATION</>",
-                    "title1": "<RichColor Color=\"1.0,0.0,1.0,1\">INFORMATION</>",
-                    "title2": "<RichColor Color=\"1.0,0.0,1.0,1\">WELCOME</>",
-                    "title3": "<RichColor Color=\"1.0,0.0,1.0,1\">MODS</>",
+                    "title1": "<RichColor Color=\"1.1,1.1,1.1,1\">INFORMATION</>",
+                    "title2": "<RichColor Color=\"1.1,1.1,1.1,1\">WELCOME</>",
+                    "title3": "<RichColor Color=\"1.1,1.1,1.1,1\">MODS</>",
                   "text1": "- HARVESTING 10x
 - EXPERIENCE 10x
 - TAMING 10x
