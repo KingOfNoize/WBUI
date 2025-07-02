@@ -182,7 +182,7 @@ PLACEHOLDER TEXT",
             },
 			{
                 "link2": {
-                    "text": "TEST",
+                    "text": "TESTING",
                     "url": "https://discord.gg/MXtC8Y2j3v"
                 }
         ]
