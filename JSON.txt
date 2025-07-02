@@ -179,7 +179,12 @@ PLACEHOLDER TEXT",
                     "text": "WIKI",
                     "url": "https://ark.wiki.gg/wiki/ARK_Wiki"
                 }
-            }
+            },
+			{
+                "link2": {
+                    "text": "TEST",
+                    "url": "https://discord.gg/MXtC8Y2j3v"
+                }
         ]
     }
 }
