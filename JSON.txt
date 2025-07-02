@@ -174,17 +174,18 @@ PLACEHOLDER TEXT",
                     "url": "https://discord.gg/MXtC8Y2j3v"
                 }
             },
+			{
+                "link4": {
+                    "text": "S-DINO INFO",
+                    "url": "https://www.curseforge.com/ark-survival-ascended/mods/s-dino-variants"
+                }
+            },
             {
                 "link3": {
                     "text": "WIKI",
                     "url": "https://ark.wiki.gg/wiki/ARK_Wiki"
                 }
-            },
-			{
-                "link2": {
-                    "text": "TESTING",
-                    "url": "https://discord.gg/MXtC8Y2j3v"
-                }
+            }
         ]
     }
 }
