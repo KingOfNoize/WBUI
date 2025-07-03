@@ -170,19 +170,19 @@ PLACEHOLDER TEXT",
             },
             {
                 "link2": {
-                    "text": "TICKET",
+                    "text": "<TextStyle.Violet>TICKET</>",
                     "url": "https://discord.gg/MXtC8Y2j3v"
                 }
             },
 			{
                 "link3": {
-                    "text": "WIKI",
+                    "text": "<TextStyle.Violet>WIKI</>",
                     "url": "https://ark.wiki.gg/wiki/ARK_Wiki"
                 }
             },
             {
                 "link4": {
-                    "text": "S-DINO INFO",
+                    "text": "<TextStyle.Violet>S-DINO INFO</>",
                     "url": "https://www.curseforge.com/ark-survival-ascended/mods/s-dino-variants"
                 }
             }
