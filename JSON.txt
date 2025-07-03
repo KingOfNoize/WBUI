@@ -164,7 +164,7 @@ PLACEHOLDER TEXT",
         "links": [
             {
                 "link1": {
-                    "text": "DISCORD",
+                    "text": "<TextStyle.Violet>DISCORD</>",
                     "url": "https://discord.gg/bQYhtp6EdM"
                 }
             },
