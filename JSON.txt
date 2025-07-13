@@ -156,7 +156,7 @@ LOOT DROPS HAVE BEEN ADDED TO ALL ALPHAS INCLUDING 5-15 ELEMENT AND 2-4 ITEMS DE
                     "layout": 2,
                     "buttontext": "<RichColor Color=\"1,1,1,1\">LOOT INFO</>",
                     "title1": "<RichColor Color=\"1.0,0.0,1.0,1\">SUPPLY / CAVE DROPS</>",
-                    "title2": "<RichColor Color=\"1.0,0.0,1.0,1\">BOSS / ALPHA DROPS</>",
+                    "title2": "<RichColor Color=\"1.0,0.0,1.0,1\">BOSS LOOT DROPS</>",
                       "text1": "<TextStyle.Violet>WHITE</>
 ARTIFACTS | TRIBUTES
 
@@ -179,9 +179,24 @@ WEAPONS | ARMOUR
 
 <TextStyle.Violet>RED</>
 SADDLES | WEAPONS | ARMOUR",
-                    "text2": "<TextStyle.Violet>WIP</>
+                    "text2": "<TextStyle.Violet>GAMMA</>
 
-PLACEHOLDER TEXT",
+100 ELEMENT
+SADDLES | WEAPONS | ARMOUR
+4 ITEMS | 30% BP CHANCE
+2 DINO MAX XP POTIONS
+
+<TextStyle.Violet>BETA</>
+275 ELEMENT
+SADDLES | WEAPONS | ARMOUR
+8 ITEMS | 40% BP CHANCE
+5 DINO MAX XP POTIONS
+
+<TextStyle.Violet>ALPHA</>
+500 ELEMENT
+SADDLES | WEAPONS | ARMOUR
+12 ITEMS | 50% BP CHANCE
+10 DINO MAX XP POTIONS",
                     "imageurl": "https://i.imgur.com/FTSECPt.png"
                 }
              }
