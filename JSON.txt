@@ -159,28 +159,28 @@ LOOT DROPS HAVE BEEN ADDED TO ALL ALPHAS INCLUDING 5-15 ELEMENT AND 2-4 ITEMS DE
                     "title2": "<RichColor Color=\"1.0,0.0,1.0,1\">BOSS LOOT DROPS</>",
                       "text1": "<TextStyle.Violet>WHITE</>
 ARTIFACTS | TRIBUTES
-
+6 ITEMS
 
 <TextStyle.Violet>GREEN</>
 RESOURCES | CONSUMABLES
-
+4 ITEMS
 
 <TextStyle.Violet>BLUE</>
 PVP KITS
-
+13 ITEMS
 
 <TextStyle.Violet>PURPLE</>
 SADDLES
-
+3 ITEMS | 20% BP CHANCE
 
 <TextStyle.Violet>YELLOW</>
 WEAPONS | ARMOUR
-
+3 ITEMS | 20% BP CHANCE
 
 <TextStyle.Violet>RED</>
-SADDLES | WEAPONS | ARMOUR",
+SADDLES | WEAPONS | ARMOUR
+4 ITEMS | 20% BP CHANCE",
                     "text2": "<TextStyle.Violet>GAMMA</>
-
 100 ELEMENT
 SADDLES | WEAPONS | ARMOUR
 4 ITEMS | 30% BP CHANCE
