@@ -239,7 +239,7 @@ SADDLES | WEAPONS | ARMOUR
             },
             {
                 "link4": {
-                    "text": "<TextStyle.Violet>S-DINO INFO</>",
+                    "text": "<TextStyle.Violet>M-DINO INFO</>",
                     "url": "https://www.curseforge.com/ark-survival-ascended/mods/m-bioshift"
                 }
             }
