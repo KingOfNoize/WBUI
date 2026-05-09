@@ -172,61 +172,6 @@ M-DINOS HAVE A CHANCE TO SPAWN IN PLACE OF THEIR VANILLA VARIANT, THEY INTRODUCE
 LOOT DROPS HAVE BEEN ADDED TO ALL ALPHAS INCLUDING 10-50 ELEMENT AND 2-8 ITEMS DEPENDING ON THE ALPHA KILLED",
                     "imageurl": "https://getwallpapers.com/wallpaper/full/4/f/1/487114.jpg"
                 }
-            },
-{
-                "tab4": {
-                    "layout": 2,
-                    "buttontext": "<RichColor Color=\"1,1,1,1\">LOOT INFO</>",
-                    "title1": "<RichColor Color=\"1.0,0.0,1.0,1\">SUPPLY / CAVE DROPS</>",
-                    "title2": "<RichColor Color=\"1.0,0.0,1.0,1\">BOSS LOOT DROPS</>",
-                      "text1": "<TextStyle.Violet>WHITE</>
-ARTIFACTS | TRIBUTES
-6 ITEMS
-
-<TextStyle.Violet>GREEN</>
-RESOURCES | CONSUMABLES
-4 ITEMS
-
-<TextStyle.Violet>BLUE</>
-PVP KITS
-13 ITEMS
-
-<TextStyle.Violet>PURPLE</>
-SADDLES
-4 ITEMS | 20% BP CHANCE
-
-<TextStyle.Violet>YELLOW</>
-WEAPONS | ARMOUR
-4 ITEMS | 20% BP CHANCE
-
-<TextStyle.Violet>RED</>
-SADDLES | WEAPONS | ARMOUR
-4 ITEMS | 20% BP CHANCE",
-                    "text2": "<TextStyle.Violet>GAMMA</>
-200 ELEMENT
-SADDLES | WEAPONS | ARMOUR
-4 ITEMS | 30% BP CHANCE
-2 PRODIGY DARTS
-1 TEK ITEM
-6 POTIONS
-
-<TextStyle.Violet>BETA</>
-550 ELEMENT
-SADDLES | WEAPONS | ARMOUR
-8 ITEMS | 40% BP CHANCE
-5 PRODIGY DARTS
-2 TEK ITEMS
-15 POTIONS
-
-<TextStyle.Violet>ALPHA</>
-1100 ELEMENT
-SADDLES | WEAPONS | ARMOUR
-16 ITEMS | 50% BP CHANCE
-12 PRODIGY DARTS
-3 TEK ITEMS
-36 POTIONS",
-                    "imageurl": "https://r4.wallpaperflare.com/wallpaper/16/879/786/abstract-simple-background-simple-digital-art-wallpaper-59d0c8ed918a9d3b96d7784fe061e66d.jpg"
-                }
              }
         ],
         "links": [
