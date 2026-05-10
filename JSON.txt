@@ -76,7 +76,7 @@
                 "tab2": {
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"1,1,1,1\">RULES</>",
-                    "title1": "<TextStyle.Violet>SERVER RULES</>",
+                    "title1": "<TextStyle.Violet></>",
                     "text1": "",
                     "imageurl": "https://i.imgur.com/6wjGM5L.png"
                 }
