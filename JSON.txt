@@ -17,9 +17,9 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"1,1,1,1\">INFORMATION</>",
-                    "title1": "<RichColor Color=\"1.0,0.0,1.0,1\"",
-                    "title2": "<RichColor Color=\"1.0,0.0,1.0,1\"",
-                    "title3": "<RichColor Color=\"1.0,0.0,1.0,1\"",
+                    "title1": "",
+                    "title2": "",
+                    "title3": "",
                   "text1": "",
                     "text2": "",
                     "text3": "",
