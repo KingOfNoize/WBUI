@@ -15,61 +15,15 @@
         "tabs": [
             {
                 "tab1": {
-                    "layout": 3,
+                    "layout": 1,
                     "buttontext": "<RichColor Color=\"1,1,1,1\">INFORMATION</>",
-                    "title1": "<RichColor Color=\"1.0,0.0,1.0,1\">INFORMATION</>",
-                    "title2": "<RichColor Color=\"1.0,0.0,1.0,1\">WELCOME</>",
-                    "title3": "<RichColor Color=\"1.0,0.0,1.0,1\">MODS</>",
-                  "text1": "- HARVESTING 10x
-- EXPERIENCE 10x
-- TAMING 10x
-- EGG HATCH SPEED 30x
-- MATURATION 30x
-- MAX PLAYER LEVEL 105
-- WILD DINO LEVEL 150
-- MAX LEVELS AFTER TAME 75
-- TRIBE LIMIT 2
-- TURRET LIMIT 250
-- CROP GROWTH SPEED 2x
-- SUPPLY DROP QUALITY 2x
-- FISHING LOOT QUALITY 2x
-- MATING INTERVAL MULTIPLIER 0.06
-- IN GAME SHOP WITH OVER 200 PACKAGES
-- POINTS ARE REWARDED EVERY 15 MINUTES
-- CUSTOM CAVES AND CAVE EDITS
-- CUSTOM SUPPLY AND CAVE DROPS
-- CUSTOM WEAPON AND SADDLE CAPS
-- ALPHA DINOS GIVE LOOT WHEN KILLED
-- ALPHA TEK DINOS GIVE LOOT WHEN KILLED
-- BOSSES GIVE LOOT WHEN KILLED
-- MINI BOSSES GIVE LOOT WHEN KILLED
-- AUTOMATED VAULT EVENTS
-- RARE DINO SPAWN EVENTS",
-                    "text2": "PRODIGY IS AN OCE HOSTED PVPVE SERVER DESIGNED AND CONFIGURED WITH MANY QUALITY OF LIFE CHANGES, MODS AND SETTINGS TO OFFER PLAYERS A FUN AND RELAXED ARK ASCENDED EXPERIENCE. WE LOOK TO PROMOTE A NON COMPETITIVE AND NON TOXIC COMMUNITY WITH FUN AND ENJOYMENT THE KEY VALUES. MAKE SURE TO JOIN THE DISCORD FOR ALL SERVER UPDATES AND ANNOUNCEMENTS",
-                    "text3": "- ARKOMATIC - 939055
-- AUTO DINO WIPES - 947733
-- AUTO ENGRAMS - 953154
-- CRAFTING SKILL POTION - 929785
-- CUSTOM DINO LEVELS - 928708
-- CYBERS STRUCTURES - 940975
-- DROP EVENT - 1361086
-- HYPERS ORP - 1020675
-- INVASIVE TEK SPECIES - 1291156
-- INX CAVE BUILDER - 983517
-- MAGA SHOP MOD - 1493855
-- M-BIOSHIFT - 1314180
-- MYSTERY CRATES - 963492
-- NANOHS SPYGLASS - 949623
-- PRODIGY COMMUNITY - 1295560
-- RAG BOSS CD - 1303460
-- RARE DINO EVENT - 1357934
-- SHINY DINOS - 928548
-- SOLO FARM - 928501
-- SUPER CRYO STORAGE - 933099
-- TG STACKING MOD - 929713
-- WBUI2 INFO PANEL - 931119
-- WHITE FLAG - 1085481",
-                    "imageurl": "https://i.imgur.com/bRWXzdy.jpg"
+                    "title1": "<RichColor Color=\"1.0,0.0,1.0,1\"",
+                    "title2": "<RichColor Color=\"1.0,0.0,1.0,1\"",
+                    "title3": "<RichColor Color=\"1.0,0.0,1.0,1\"",
+                  "text1": "",
+                    "text2": "",
+                    "text3": "",
+                    "imageurl": "https://i.imgur.com/WrknOXc.png"
                 }
             },
             {
@@ -85,7 +39,7 @@
                 "tab3": {
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"1,1,1,1\">SERVER GUIDE</>",
-                    "title1": "<TextStyle.Violet>PRODIGY SERVER GUIDE</>",
+                    "title1": "",
                     "text1": "<TextStyle.Violet>STARTING OUT</>
 IF YOU ARE NEW TO THE SERVER YOU CAN ACCESS THE IN GAME SHOP AND PURCHASE A STARTER KIT, THIS WILL GIVE YOU A PTERANODON AND BASIC TOOLS AND ARMOUR TO HELP GET STARTED. PLAYERS ARE GRANTED 3 FREE STARTER KITS PER SEASON
 
