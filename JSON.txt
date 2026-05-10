@@ -32,7 +32,7 @@
           "buttontext": "<RichColor Color=\"1,1,1,1\">MODS</>",
           "title1": "<TextStyle.Violet></>",
           "text1": "",
-          "imageurl": "https://i.imgur.com/mX0dRkX.png"
+          "imageurl": "https://i.imgur.com/vhN6XHj.png"
         }
       },
       {
@@ -50,7 +50,7 @@
           "buttontext": "<RichColor Color=\"1,1,1,1\">SERVER GUIDE</>",
           "title1": "",
           "text1": "",
-          "imageurl": "https://i.imgur.com/SPbR9uj.png"
+          "imageurl": "https://i.imgur.com/pqJC6lk.png"
         }
       }
     ],
