@@ -97,7 +97,7 @@
 - INSIDING A TRIBE IS STRICTLY AGAINST THE RULES
 - ALL STRUCTURES MUST BE ABLE TO TAKE DAMAGE, NO MESHED OR FLOATING OBJECTS
 - SPAM AT BASES IS ALLOWED AS LONG AS NOT EXTREMELY EXCESSIVE (CLARIFY WITH ADMIN IF UNSURE)",
-                    "imageurl": "https://i.imgur.com/79nEuSU.png"
+                    "imageurl": "https://imgur.com/P57n8t8"
                 }
              },
             {
