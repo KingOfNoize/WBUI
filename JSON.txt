@@ -58,7 +58,7 @@
       {
         "link1": {
           "text": "<TextStyle.White>DISCORD</>",
-          "url": "https://discord.gg/bQYhtp6EdM"
+          "url": "https://discord.gg/PCNPDyAhep"
         }
       },
       {
