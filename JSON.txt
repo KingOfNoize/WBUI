@@ -59,7 +59,7 @@
           "buttontext": "<RichColor Color=\"1,1,1,1\">DROPS</>",
           "title1": "",
           "text1": "",
-          "imageurl": "https://i.imgur.com/MRLWYQ2.png"
+          "imageurl": "https://i.imgur.com/mydNJD9.png"
         }
       }
     ],
