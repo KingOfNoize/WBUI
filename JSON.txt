@@ -32,7 +32,7 @@
           "buttontext": "<RichColor Color=\"1,1,1,1\">MODS</>",
           "title1": "<TextStyle.Violet></>",
           "text1": "",
-          "imageurl": "https://i.imgur.com/qeuHdFj.png"
+          "imageurl": "https://i.imgur.com/7wjkLQV.png"
         }
       },
       {
