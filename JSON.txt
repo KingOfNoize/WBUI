@@ -41,7 +41,7 @@
           "buttontext": "<RichColor Color=\"1,1,1,1\">RULES</>",
           "title1": "",
           "text1": "",
-          "imageurl": "https://i.imgur.com/6wjGM5L.png"
+          "imageurl": "https://i.imgur.com/ej8qfpf.png"
         }
       },
       {
