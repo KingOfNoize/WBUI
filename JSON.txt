@@ -50,7 +50,7 @@
           "buttontext": "<RichColor Color=\"1,1,1,1\">FEATURES</>",
           "title1": "",
           "text1": "",
-          "imageurl": "https://i.imgur.com/oVYRQQc.png"
+          "imageurl": "https://i.imgur.com/n79OndR.png"
         }
       },
       {
