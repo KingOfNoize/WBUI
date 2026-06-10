@@ -1,0 +1,99 @@
+{
+  "WBUI2": {
+    "settings": {
+      "OpenButton": 1,
+      "HideIcon": true,
+      "HideIconAfter": 30,
+      "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+      "DisableIconText": false,
+      "IconPosition": 0,
+      "IconTextColor": 0,
+      "OpenOnStart": false,
+      "OpenOnStartOnlyNewPlayers": true,
+      "UpdateInterval": 12
+    },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,1,1,1\">INFORMATION</>",
+          "title1": "",
+          "title2": "",
+          "title3": "",
+          "text1": "",
+          "text2": "",
+          "text3": "",
+          "imageurl": "https://i.imgur.com/tr1Z9Eq.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,1,1,1\">MODS</>",
+          "title1": "<TextStyle.Violet></>",
+          "text1": "",
+          "imageurl": "https://i.imgur.com/tO01wZT.png"
+        }
+      },
+      {
+        "tab3": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,1,1,1\">RULES</>",
+          "title1": "",
+          "text1": "",
+          "imageurl": "https://i.imgur.com/ej8qfpf.png"
+        }
+      },
+      {
+        "tab4": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,1,1,1\">FEATURES</>",
+          "title1": "",
+          "text1": "",
+          "imageurl": "https://i.imgur.com/n79OndR.png"
+        }
+      },
+      {
+        "tab5": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,1,1,1\">DROPS</>",
+          "title1": "",
+          "text1": "",
+          "imageurl": "https://i.imgur.com/mydNJD9.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "<TextStyle.White>DISCORD</>",
+          "url": "https://discord.gg/PCNPDyAhep"
+        }
+      },
+      {
+        "link2": {
+          "text": "<TextStyle.White>TICKET</>",
+          "url": "https://discord.gg/MXtC8Y2j3v"
+        }
+      },
+      {
+        "link3": {
+          "text": "<TextStyle.White>WIKI</>",
+          "url": "https://ark.wiki.gg/wiki/ARK_Wiki"
+        }
+      },
+      {
+        "link4": {
+          "text": "<TextStyle.White>M-DINO INFO</>",
+          "url": "https://www.curseforge.com/ark-survival-ascended/mods/m-bioshift"
+        }
+      },
+      {
+        "link5": {
+          "text": "<TextStyle.White>SHINY DINO INFO</>",
+          "url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
+        }
+      }
+    ]
+  }
+}
