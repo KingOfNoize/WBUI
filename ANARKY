@@ -4,7 +4,7 @@
       "OpenButton": 1,
       "HideIcon": true,
       "HideIconAfter": 30,
-      "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+      "IconURL": "https://i.imgur.com/6LnpCqA.png",
       "DisableIconText": false,
       "IconPosition": 0,
       "IconTextColor": 0,
@@ -72,24 +72,18 @@
       },
       {
         "link2": {
-          "text": "<TextStyle.White>TICKET</>",
-          "url": "https://discord.gg/MXtC8Y2j3v"
-        }
-      },
-      {
-        "link3": {
           "text": "<TextStyle.White>WIKI</>",
           "url": "https://ark.wiki.gg/wiki/ARK_Wiki"
         }
       },
       {
-        "link4": {
+        "link3": {
           "text": "<TextStyle.White>M-DINO INFO</>",
           "url": "https://www.curseforge.com/ark-survival-ascended/mods/m-bioshift"
         }
       },
       {
-        "link5": {
+        "link4": {
           "text": "<TextStyle.White>SHINY DINO INFO</>",
           "url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
         }
