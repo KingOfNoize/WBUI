@@ -3,9 +3,9 @@
     "settings": {
       "OpenButton": 1,
       "HideIcon": true,
-      "HideIconAfter": 0,
-      "IconURL": "https://i.imgur.com/UZHbm3q.png",
-      "DisableIconText": false,
+      "HideIconAfter": 20,
+      "IconURL": "https://i.imgur.com/8cPr1kt.png",
+      "DisableIconText": true,
       "IconPosition": 0,
       "IconTextColor": 8,
       "OpenOnStart": false,
