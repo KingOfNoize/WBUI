@@ -52,6 +52,15 @@
           "text1": "",
           "imageurl": "https://i.imgur.com/yPwqQf8.png"
         }
+      },
+      {
+        "tab5": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,1,1,1\">CUSTOM SPAWNS</>",
+          "title1": "",
+          "text1": "",
+          "imageurl": "https://i.imgur.com/LW3LsLq.png"
+        }
       }
     ],
     "links": [
