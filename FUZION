@@ -29,23 +29,14 @@
       {
         "tab2": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,1,1,1\">MODS</>",
-          "title1": "<TextStyle.Violet></>",
+          "buttontext": "<RichColor Color=\"1,1,1,1\">RULES</>",
+          "title1": "",
           "text1": "",
-          "imageurl": "https://i.imgur.com/T2GLOVB.png"
+          "imageurl": "https://i.imgur.com/Nks9DhF.png"
         }
       },
       {
         "tab3": {
-          "layout": 1,
-          "buttontext": "<RichColor Color=\"1,1,1,1\">RULES</>",
-          "title1": "",
-          "text1": "",
-          "imageurl": "https://i.imgur.com/VE0VCdZ.png"
-        }
-      },
-      {
-        "tab4": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,1,1,1\">FEATURES</>",
           "title1": "",
@@ -54,12 +45,12 @@
         }
       },
       {
-        "tab5": {
+        "tab4": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,1,1,1\">CUSTOM SPAWNS</>",
           "title1": "",
           "text1": "",
-          "imageurl": "https://i.imgur.com/LW3LsLq.png"
+          "imageurl": "https://i.imgur.com/bzUDm73.png"
         }
       }
     ],
@@ -78,12 +69,6 @@
       },
       {
         "link3": {
-          "text": "<TextStyle.White>M-DINO INFO</>",
-          "url": "https://www.curseforge.com/ark-survival-ascended/mods/m-bioshift"
-        }
-      },
-      {
-        "link4": {
           "text": "<TextStyle.White>SHINY DINO INFO</>",
           "url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
         }
